@@ -1,0 +1,38 @@
+1629372756   Make a move player R.
+1629372765   Display the current board
+1629372817   Make a move player R.
+1629372824   Display the current board
+1629372853   Make a move player R.
+1629372858   Display the current board
+1629372879   Make a move player R.
+1629372885   Display the current board
+1629372930   Start the game over.
+1629372940   Make a move player R.
+1629372946   Display the current board
+1629372956   Make a move player R.
+1629372967   Display the current board
+1629372982   Make a move player B.
+1629372993   Check for winner.
+1629373028   Displaying the rules of the game.
+1629373039   Check for end of game.
+1629373047   Display the current board
+1629373067   Displaying the rules of the game.
+1629373211   Displaying the rules of the game.
+1629406758   Make a move player R.
+1629406766   Display the current board
+1629406791   Make a move player R.
+1629406803   Make a move player B.
+1629406807   Display the current board
+1629406840   Display the current board
+1629406853   Make a move player B.
+1629406857   Display the current board
+1629406917   Make a move player B.
+1629406921   Display the current board
+1629408233   Make a move player B.
+1629408236   Display the current board
+1629408982   Displaying the rules of the game.
+1629409066   Make a move player B.
+1629409072   Display the current board
+1629409110   Make a move player R.
+1629409113   Display the current board
+1629409177   Ending the game.
